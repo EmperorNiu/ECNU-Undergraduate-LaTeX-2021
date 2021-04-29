@@ -10,6 +10,7 @@
 - 顶栏格式
 - 脚注格式
 - 表格multirow的包
+- 参考文献格式
 - 暂时没发现其他模板改动
 
 其余与YijunYuan/ECNU-Undergraduate-LaTeX一致，
