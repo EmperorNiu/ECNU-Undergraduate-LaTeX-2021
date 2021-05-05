@@ -12,6 +12,7 @@
 - 表格multirow的包
 - 参考文献格式
 - 暂时没发现其他模板改动
+- 注意图片和表格的标题要求中英文对照！
 
 其余与YijunYuan/ECNU-Undergraduate-LaTeX一致，
 
